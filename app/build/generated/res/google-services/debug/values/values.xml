@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bongohiphop-9af0f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">474171084472</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k</string>
+    <string name="google_app_id" translatable="false">1:474171084472:android:09f0cd9b0dc54d23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k</string>
+    <string name="google_storage_bucket" translatable="false">bongohiphop-9af0f.appspot.com</string>
+    <string name="project_id" translatable="false">bongohiphop-9af0f</string>
+</resources>

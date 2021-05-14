@@ -1,0 +1,137 @@
+{
+  "project_info": {
+    "project_number": "474171084472",
+    "firebase_url": "https://bongohiphop-9af0f.firebaseio.com",
+    "project_id": "bongohiphop-9af0f",
+    "storage_bucket": "bongohiphop-9af0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474171084472:android:8246b0047dc2bdd5f06e4d",
+        "android_client_info": {
+          "package_name": "bongoflava.bongofleva.tanzania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474171084472:android:7ec0125f085c1970f06e4d",
+        "android_client_info": {
+          "package_name": "com.music.bongoflava.bongoflava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5942769310685348~5423808143"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474171084472:android:4cb9de89b19e8ea4f06e4d",
+        "android_client_info": {
+          "package_name": "com.music.injili.kikristo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474171084472:android:09f0cd9b0dc54d23",
+        "android_client_info": {
+          "package_name": "com.nyimbozamani.nyimbozazamani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474171084472-l0m6154j9gkqoiiau5ik5ep31jo2bllh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nyimbozamani.nyimbozazamani",
+            "certificate_hash": "2c9c730c1bd2c8468d0a3d672db1b2e434f0f1d8"
+          }
+        },
+        {
+          "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjH7PJTFsKsGcRqc6JhykuisLemH3FW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474171084472-0cjftd19dp17hhbpsi9ivm331kmru0kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5942769310685348~2281324515"
+    }
+  ],
+  "configuration_version": "1"
+}

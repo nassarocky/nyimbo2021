@@ -1,0 +1,318 @@
+com/nyimbozamani/nyimbozazamani/util/ImageUtil.java
+ com.nyimbozamani.nyimbozazamani.util.ImageUtil
+com/nyimbozamani/nyimbozazamani/glide/ArtistGlideRequest.java
+ com.nyimbozamani.nyimbozazamani.glide.ArtistGlideRequest
+ com.nyimbozamani.nyimbozazamani.glide.ArtistGlideRequest$BitmapBuilder
+ com.nyimbozamani.nyimbozazamani.glide.ArtistGlideRequest$Builder
+ com.nyimbozamani.nyimbozazamani.glide.ArtistGlideRequest$PaletteBuilder
+com/nyimbozamani/nyimbozazamani/lyrics/LrcView.java
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$1
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$2
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$3
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$4
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$5
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcView$OnPlayClickListener
+com/nyimbozamani/nyimbozazamani/views/HeightFitSquareLayout.java
+ com.nyimbozamani.nyimbozazamani.views.HeightFitSquareLayout
+com/nyimbozamani/nyimbozazamani/util/RippleUtils.java
+ com.nyimbozamani.nyimbozazamani.util.RippleUtils
+com/nyimbozamani/nyimbozazamani/misc/CustomFragmentStatePagerAdapter.java
+ com.nyimbozamani.nyimbozazamani.misc.CustomFragmentStatePagerAdapter
+com/nyimbozamani/nyimbozazamani/views/NetworkImageView.java
+ com.nyimbozamani.nyimbozazamani.views.NetworkImageView
+com/nyimbozamani/nyimbozazamani/glide/palette/BitmapPaletteTranscoder.java
+ com.nyimbozamani.nyimbozazamani.glide.palette.BitmapPaletteTranscoder
+com/nyimbozamani/nyimbozazamani/BuildConfig.java
+ com.nyimbozamani.nyimbozazamani.BuildConfig
+com/nyimbozamani/nyimbozazamani/service/PlaybackHandler.java
+ com.nyimbozamani.nyimbozazamani.service.PlaybackHandler
+com/nyimbozamani/nyimbozazamani/views/LollipopFixedWebView.java
+ com.nyimbozamani.nyimbozazamani.views.LollipopFixedWebView
+com/nyimbozamani/nyimbozazamani/db/RetroDatabase_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.RetroDatabase_Impl
+ com.nyimbozamani.nyimbozazamani.db.RetroDatabase_Impl$1
+com/nyimbozamani/nyimbozazamani/activities/bugreport/model/github/GithubLogin.java
+ com.nyimbozamani.nyimbozazamani.activities.bugreport.model.github.GithubLogin
+com/nyimbozamani/nyimbozazamani/db/BlackListStoreDao_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$1
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$2
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$3
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$4
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$5
+ com.nyimbozamani.nyimbozazamani.db.BlackListStoreDao_Impl$6
+com/nyimbozamani/nyimbozazamani/db/PlaylistDao_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$1
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$10
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$11
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$12
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$13
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$14
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$15
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$16
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$17
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$18
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$19
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$2
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$20
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$3
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$4
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$5
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$6
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$7
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$8
+ com.nyimbozamani.nyimbozazamani.db.PlaylistDao_Impl$9
+com/nyimbozamani/nyimbozazamani/views/ScrollingViewOnApplyWindowInsetsListener.java
+ com.nyimbozamani.nyimbozazamani.views.ScrollingViewOnApplyWindowInsetsListener
+com/nyimbozamani/nyimbozazamani/adapter/base/AbsMultiSelectAdapter.java
+ com.nyimbozamani.nyimbozazamani.adapter.base.AbsMultiSelectAdapter
+com/nyimbozamani/nyimbozazamani/service/MultiPlayer.java
+ com.nyimbozamani.nyimbozazamani.service.MultiPlayer
+com/nyimbozamani/nyimbozazamani/views/BreadCrumbLayout.java
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout$Crumb
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout$Crumb$1
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout$SavedStateWrapper
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout$SavedStateWrapper$1
+ com.nyimbozamani.nyimbozazamani.views.BreadCrumbLayout$SelectionCallback
+com/nyimbozamani/nyimbozazamani/misc/DialogAsyncTask.java
+ com.nyimbozamani.nyimbozazamani.misc.DialogAsyncTask
+com/nyimbozamani/nyimbozazamani/network/model/LastFmArtist.java
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmArtist
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmArtist$Artist
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmArtist$Artist$Bio
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmArtist$Artist$Image
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmArtist$Artist$Stats
+com/nyimbozamani/nyimbozazamani/model/lyrics/Lyrics.java
+ com.nyimbozamani.nyimbozazamani.model.lyrics.Lyrics
+com/nyimbozamani/nyimbozazamani/views/PopupBackground.java
+ com.nyimbozamani.nyimbozazamani.views.PopupBackground
+com/nyimbozamani/nyimbozazamani/dialogs/BlacklistFolderChooserDialog.java
+ com.nyimbozamani.nyimbozazamani.dialogs.BlacklistFolderChooserDialog
+ com.nyimbozamani.nyimbozazamani.dialogs.BlacklistFolderChooserDialog$1
+ com.nyimbozamani.nyimbozazamani.dialogs.BlacklistFolderChooserDialog$FolderCallback
+ com.nyimbozamani.nyimbozazamani.dialogs.BlacklistFolderChooserDialog$FolderSorter
+com/nyimbozamani/nyimbozazamani/activities/WhatsNewActivity.java
+ com.nyimbozamani.nyimbozazamani.activities.WhatsNewActivity
+com/nyimbozamani/nyimbozazamani/glide/AlbumGlideRequest.java
+ com.nyimbozamani.nyimbozazamani.glide.AlbumGlideRequest
+ com.nyimbozamani.nyimbozazamani.glide.AlbumGlideRequest$BitmapBuilder
+ com.nyimbozamani.nyimbozazamani.glide.AlbumGlideRequest$Builder
+ com.nyimbozamani.nyimbozazamani.glide.AlbumGlideRequest$PaletteBuilder
+com/nyimbozamani/nyimbozazamani/glide/audiocover/AudioFileCoverLoader.java
+ com.nyimbozamani.nyimbozazamani.glide.audiocover.AudioFileCoverLoader
+ com.nyimbozamani.nyimbozazamani.glide.audiocover.AudioFileCoverLoader$Factory
+com/nyimbozamani/nyimbozazamani/activities/bugreport/model/DeviceInfo.java
+ com.nyimbozamani.nyimbozazamani.activities.bugreport.model.DeviceInfo
+com/nyimbozamani/nyimbozazamani/util/TempUtils.java
+ com.nyimbozamani.nyimbozazamani.util.TempUtils
+com/nyimbozamani/nyimbozazamani/providers/HistoryStore.java
+ com.nyimbozamani.nyimbozazamani.providers.HistoryStore
+ com.nyimbozamani.nyimbozazamani.providers.HistoryStore$RecentStoreColumns
+com/nyimbozamani/nyimbozazamani/util/RetroColorUtil.java
+ com.nyimbozamani.nyimbozazamani.util.RetroColorUtil
+ com.nyimbozamani.nyimbozazamani.util.RetroColorUtil$SwatchComparator
+com/nyimbozamani/nyimbozazamani/util/LyricUtil.java
+ com.nyimbozamani.nyimbozazamani.util.LyricUtil
+com/nyimbozamani/nyimbozazamani/LanguageContextWrapper.java
+ com.nyimbozamani.nyimbozazamani.LanguageContextWrapper
+com/nyimbozamani/nyimbozazamani/lyrics/LrcEntry.java
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcEntry
+com/nyimbozamani/nyimbozazamani/util/FileUtil.java
+ com.nyimbozamani.nyimbozazamani.util.FileUtil
+com/nyimbozamani/nyimbozazamani/activities/bugreport/model/github/GithubTarget.java
+ com.nyimbozamani.nyimbozazamani.activities.bugreport.model.github.GithubTarget
+com/nyimbozamani/nyimbozazamani/views/SeekArc.java
+ com.nyimbozamani.nyimbozazamani.views.SeekArc
+ com.nyimbozamani.nyimbozazamani.views.SeekArc$OnSeekArcChangeListener
+com/nyimbozamani/nyimbozazamani/util/PlaylistsUtil.java
+ com.nyimbozamani.nyimbozazamani.util.PlaylistsUtil
+com/nyimbozamani/nyimbozazamani/glide/palette/BitmapPaletteTarget.java
+ com.nyimbozamani.nyimbozazamani.glide.palette.BitmapPaletteTarget
+com/nyimbozamani/nyimbozazamani/activities/LicenseActivity.java
+ com.nyimbozamani.nyimbozazamani.activities.LicenseActivity
+com/nyimbozamani/nyimbozazamani/helper/StackBlur.java
+ com.nyimbozamani.nyimbozazamani.helper.StackBlur
+ com.nyimbozamani.nyimbozazamani.helper.StackBlur$BlurTask
+com/nyimbozamani/nyimbozazamani/db/LyricsDao_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.LyricsDao_Impl
+ com.nyimbozamani.nyimbozazamani.db.LyricsDao_Impl$1
+ com.nyimbozamani.nyimbozazamani.db.LyricsDao_Impl$2
+ com.nyimbozamani.nyimbozazamani.db.LyricsDao_Impl$3
+com/nyimbozamani/nyimbozazamani/fragments/folder/FoldersFragment.java
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$1
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$AsyncFileLoader
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListPathsAsyncTask
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListPathsAsyncTask$LoadingInfo
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListPathsAsyncTask$OnPathsListedCallback
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListSongsAsyncTask
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListSongsAsyncTask$LoadingInfo
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListSongsAsyncTask$OnSongsListedCallback
+ com.nyimbozamani.nyimbozazamani.fragments.folder.FoldersFragment$ListingFilesDialogAsyncTask
+com/nyimbozamani/nyimbozazamani/lyrics/Lrc.java
+ com.nyimbozamani.nyimbozazamani.lyrics.Lrc
+com/nyimbozamani/nyimbozazamani/lyrics/LrcHelper.java
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcHelper
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcHelper$1
+com/nyimbozamani/nyimbozazamani/model/lyrics/AbsSynchronizedLyrics.java
+ com.nyimbozamani.nyimbozazamani.model.lyrics.AbsSynchronizedLyrics
+com/nyimbozamani/nyimbozazamani/util/NavigationUtil.java
+ com.nyimbozamani.nyimbozazamani.util.NavigationUtil
+com/nyimbozamani/nyimbozazamani/service/MusicService.java
+ com.nyimbozamani.nyimbozazamani.service.MusicService
+ com.nyimbozamani.nyimbozazamani.service.MusicService$1
+ com.nyimbozamani.nyimbozazamani.service.MusicService$2
+ com.nyimbozamani.nyimbozazamani.service.MusicService$3
+ com.nyimbozamani.nyimbozazamani.service.MusicService$4
+ com.nyimbozamani.nyimbozazamani.service.MusicService$5
+ com.nyimbozamani.nyimbozazamani.service.MusicService$6
+ com.nyimbozamani.nyimbozazamani.service.MusicService$7
+ com.nyimbozamani.nyimbozazamani.service.MusicService$8
+ com.nyimbozamani.nyimbozazamani.service.MusicService$9
+ com.nyimbozamani.nyimbozazamani.service.MusicService$9$1
+ com.nyimbozamani.nyimbozazamani.service.MusicService$MusicBinder
+com/nyimbozamani/nyimbozazamani/activities/bugreport/model/Report.java
+ com.nyimbozamani.nyimbozazamani.activities.bugreport.model.Report
+com/nyimbozamani/nyimbozazamani/network/model/LastFmTrack.java
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Album
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Album$Attr
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Album$Image
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Artist
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Toptags
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Toptags$Tag
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmTrack$Track$Wiki
+com/nyimbozamani/nyimbozazamani/views/CircularImageView.java
+ com.nyimbozamani.nyimbozazamani.views.CircularImageView
+com/nyimbozamani/nyimbozazamani/views/ContributorsView.java
+ com.nyimbozamani.nyimbozazamani.views.ContributorsView
+com/nyimbozamani/nyimbozazamani/util/BitmapEditor.java
+ com.nyimbozamani.nyimbozazamani.util.BitmapEditor
+com/nyimbozamani/nyimbozazamani/util/RetroUtil.java
+ com.nyimbozamani.nyimbozazamani.util.RetroUtil
+com/nyimbozamani/nyimbozazamani/glide/palette/BitmapPaletteWrapper.java
+ com.nyimbozamani.nyimbozazamani.glide.palette.BitmapPaletteWrapper
+com/nyimbozamani/nyimbozazamani/db/HistoryDao_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$1
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$2
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$3
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$4
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$5
+ com.nyimbozamani.nyimbozazamani.db.HistoryDao_Impl$6
+com/nyimbozamani/nyimbozazamani/views/VerticalTextView.java
+ com.nyimbozamani.nyimbozazamani.views.VerticalTextView
+com/nyimbozamani/nyimbozazamani/RetroBottomSheetBehavior.java
+ com.nyimbozamani.nyimbozazamani.RetroBottomSheetBehavior
+com/nyimbozamani/nyimbozazamani/util/CalendarUtil.java
+ com.nyimbozamani.nyimbozazamani.util.CalendarUtil
+com/nyimbozamani/nyimbozazamani/helper/M3UConstants.java
+ com.nyimbozamani.nyimbozazamani.helper.M3UConstants
+com/nyimbozamani/nyimbozazamani/lyrics/LrcUtils.java
+ com.nyimbozamani.nyimbozazamani.lyrics.LrcUtils
+com/nyimbozamani/nyimbozazamani/adapter/CategoryInfoAdapter.java
+ com.nyimbozamani.nyimbozazamani.adapter.CategoryInfoAdapter
+ com.nyimbozamani.nyimbozazamani.adapter.CategoryInfoAdapter$ViewHolder
+com/nyimbozamani/nyimbozazamani/util/color/ImageUtils.java
+ com.nyimbozamani.nyimbozazamani.util.color.ImageUtils
+com/nyimbozamani/nyimbozazamani/util/ColorUtil.java
+ com.nyimbozamani.nyimbozazamani.util.ColorUtil
+ com.nyimbozamani.nyimbozazamani.util.ColorUtil$SwatchComparator
+com/nyimbozamani/nyimbozazamani/misc/GenericFileProvider.java
+ com.nyimbozamani.nyimbozazamani.misc.GenericFileProvider
+com/nyimbozamani/nyimbozazamani/activities/tageditor/WriteTagsAsyncTask.java
+ com.nyimbozamani.nyimbozazamani.activities.tageditor.WriteTagsAsyncTask
+com/nyimbozamani/nyimbozazamani/glide/SongGlideRequest.java
+ com.nyimbozamani.nyimbozazamani.glide.SongGlideRequest
+ com.nyimbozamani.nyimbozazamani.glide.SongGlideRequest$BitmapBuilder
+ com.nyimbozamani.nyimbozazamani.glide.SongGlideRequest$Builder
+ com.nyimbozamani.nyimbozazamani.glide.SongGlideRequest$PaletteBuilder
+com/nyimbozamani/nyimbozazamani/providers/BlacklistStore.java
+ com.nyimbozamani.nyimbozazamani.providers.BlacklistStore
+ com.nyimbozamani.nyimbozazamani.providers.BlacklistStore$BlacklistStoreColumns
+com/nyimbozamani/nyimbozazamani/db/PlayCountDao_Impl.java
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl$1
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl$2
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl$3
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl$4
+ com.nyimbozamani.nyimbozazamani.db.PlayCountDao_Impl$5
+com/nyimbozamani/nyimbozazamani/repository/SortedCursor.java
+ com.nyimbozamani.nyimbozazamani.repository.SortedCursor
+com/nyimbozamani/nyimbozazamani/misc/UpdateToastMediaScannerCompletionListener.java
+ com.nyimbozamani.nyimbozazamani.misc.UpdateToastMediaScannerCompletionListener
+com/nyimbozamani/nyimbozazamani/glide/palette/BitmapPaletteResource.java
+ com.nyimbozamani.nyimbozazamani.glide.palette.BitmapPaletteResource
+com/nyimbozamani/nyimbozazamani/network/model/LastFmAlbum.java
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum$Album
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum$Album$Image
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum$Album$Tag
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum$Album$Tags
+ com.nyimbozamani.nyimbozazamani.network.model.LastFmAlbum$Album$Wiki
+com/nyimbozamani/nyimbozazamani/util/AutoGeneratedPlaylistBitmap.java
+ com.nyimbozamani.nyimbozazamani.util.AutoGeneratedPlaylistBitmap
+com/nyimbozamani/nyimbozazamani/providers/MusicPlaybackQueueStore.java
+ com.nyimbozamani.nyimbozazamani.providers.MusicPlaybackQueueStore
+com/nyimbozamani/nyimbozazamani/views/StatusBarMarginFrameLayout.java
+ com.nyimbozamani.nyimbozazamani.views.StatusBarMarginFrameLayout
+com/nyimbozamani/nyimbozazamani/activities/bugreport/model/github/ExtraInfo.java
+ com.nyimbozamani.nyimbozazamani.activities.bugreport.model.github.ExtraInfo
+com/nyimbozamani/nyimbozazamani/views/BaselineGridTextView.java
+ com.nyimbozamani.nyimbozazamani.views.BaselineGridTextView
+com/nyimbozamani/nyimbozazamani/volume/AudioVolumeContentObserver.java
+ com.nyimbozamani.nyimbozazamani.volume.AudioVolumeContentObserver
+com/nyimbozamani/nyimbozazamani/glide/UserProfileGlideRequest.java
+ com.nyimbozamani.nyimbozazamani.glide.UserProfileGlideRequest
+ com.nyimbozamani.nyimbozazamani.glide.UserProfileGlideRequest$BitmapBuilder
+ com.nyimbozamani.nyimbozazamani.glide.UserProfileGlideRequest$Builder
+com/nyimbozamani/nyimbozazamani/adapter/base/MediaEntryViewHolder.java
+ com.nyimbozamani.nyimbozazamani.adapter.base.MediaEntryViewHolder
+com/nyimbozamani/nyimbozazamani/util/SAFUtil.java
+ com.nyimbozamani.nyimbozazamani.util.SAFUtil
+com/nyimbozamani/nyimbozazamani/util/color/NotificationColorUtil.java
+ com.nyimbozamani.nyimbozazamani.util.color.NotificationColorUtil
+ com.nyimbozamani.nyimbozazamani.util.color.NotificationColorUtil$ColorUtilsFromCompat
+com/nyimbozamani/nyimbozazamani/glide/ProfileBannerGlideRequest.java
+ com.nyimbozamani.nyimbozazamani.glide.ProfileBannerGlideRequest
+ com.nyimbozamani.nyimbozazamani.glide.ProfileBannerGlideRequest$BitmapBuilder
+ com.nyimbozamani.nyimbozazamani.glide.ProfileBannerGlideRequest$Builder
+com/nyimbozamani/nyimbozazamani/glide/audiocover/AudioFileCoverUtils.java
+ com.nyimbozamani.nyimbozazamani.glide.audiocover.AudioFileCoverUtils
+com/nyimbozamani/nyimbozazamani/util/color/MediaNotificationProcessor.java
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor$1
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor$2
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor$2$1
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor$3
+ com.nyimbozamani.nyimbozazamani.util.color.MediaNotificationProcessor$OnPaletteLoadedListener
+com/nyimbozamani/nyimbozazamani/views/StatusBarView.java
+ com.nyimbozamani.nyimbozazamani.views.StatusBarView
+com/nyimbozamani/nyimbozazamani/util/SwipeAndDragHelper.java
+ com.nyimbozamani.nyimbozazamani.util.SwipeAndDragHelper
+ com.nyimbozamani.nyimbozazamani.util.SwipeAndDragHelper$ActionCompletionContract
+com/nyimbozamani/nyimbozazamani/repository/SortedLongCursor.java
+ com.nyimbozamani.nyimbozazamani.repository.SortedLongCursor
+com/nyimbozamani/nyimbozazamani/util/ArtistSignatureUtil.java
+ com.nyimbozamani.nyimbozazamani.util.ArtistSignatureUtil
+com/nyimbozamani/nyimbozazamani/glide/audiocover/AudioFileCoverFetcher.java
+ com.nyimbozamani.nyimbozazamani.glide.audiocover.AudioFileCoverFetcher
+com/nyimbozamani/nyimbozazamani/activities/saf/SAFGuideActivity.java
+ com.nyimbozamani.nyimbozazamani.activities.saf.SAFGuideActivity
+com/nyimbozamani/nyimbozazamani/model/lyrics/SynchronizedLyricsLRC.java
+ com.nyimbozamani.nyimbozazamani.model.lyrics.SynchronizedLyricsLRC
+com/nyimbozamani/nyimbozazamani/views/DrawableGradient.java
+ com.nyimbozamani.nyimbozazamani.views.DrawableGradient
+com/nyimbozamani/nyimbozazamani/misc/LagTracker.java
+ com.nyimbozamani.nyimbozazamani.misc.LagTracker
+com/nyimbozamani/nyimbozazamani/providers/SongPlayCountStore.java
+ com.nyimbozamani.nyimbozazamani.providers.SongPlayCountStore
+ com.nyimbozamani.nyimbozazamani.providers.SongPlayCountStore$SongPlayCountColumns
+com/nyimbozamani/nyimbozazamani/util/Compressor.java
+ com.nyimbozamani.nyimbozazamani.util.Compressor
+com/nyimbozamani/nyimbozazamani/glide/audiocover/AudioFileCover.java
+ com.nyimbozamani.nyimbozazamani.glide.audiocover.AudioFileCover
